@@ -35,4 +35,4 @@ It is written from the perspective of updating the Typelevel keys, but might (ho
 
 7. Once you are sure the private key is saved, remove the secret keys from your keyring.
     - `gpg --delete-secret-keys $KEY_ID` This will prompt you many times to be sure, and you should be sure that you have saved everything before you do this.
-    - `gpg --delete-key $KEY_ID`
+    - `gpg --delete-key $KEY_ID` if you'd like to remove the public key, however! it can be helpful to keep and use to verify artifacts if necessary
