@@ -33,6 +33,6 @@ It is written from the perspective of updating the Typelevel keys, but might (ho
       - in the Typelevel site repo, the key is at `.well-known/openpgpkey/hu/nwnwrk3rczw4ou5x56ibcrdatrgf1xag`
       - `gpg --export $KEY_ID > .well-known/openpgpkey/hu/nwnwrk3rczw4ou5x56ibcrdatrgf1xag` to update it
 
-7. If they are not necessary, remove the keys from your keyring.
+7. Once you are sure the private key is saved, remove the secret keys from your keyring.
     - `gpg --delete-secret-keys $KEY_ID` This will prompt you many times to be sure, and you should be sure that you have saved everything before you do this.
     - `gpg --delete-key $KEY_ID`
