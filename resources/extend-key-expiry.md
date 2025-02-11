@@ -16,7 +16,7 @@ It is written from the perspective of updating the Typelevel keys, but might (ho
       - follow the same steps as before to update the expiry, and `save`
 
 3. Send the updated key to the keyserver
-    - `gpg --keyserver keyserver.ubuntu.com --send-keys $KEY_ID`
+    - `gpg --keyserver keys.openpgp.org --send-keys $KEY_ID`
     - look up the key ID in the keyserver to ensure it looks correct.
 
 4. Update the secret key in GitHub
