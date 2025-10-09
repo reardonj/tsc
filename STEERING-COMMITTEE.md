@@ -6,10 +6,8 @@ This document lists the members of the Organization's Steering Committee. Voting
 |---------------------------------|------------------------------------------------------------------|------------|
 | Ross A. Baker                   | [@rossabaker](https://github.com/rossabaker)                     |            |
 | Luka Jacobowitz                 | [@LukaJCB](https://github.com/LukaJCB)                           |            |
-| Zach McCoy                      | [@zmccoy](https://github.com/zmccoy)                             |            |
 | Michael Pilquist                | [@mpilquist](https://github.com/mpilquist)                       |            |
 | Sam Pillsworth                  | [@samspills](https://github.com/samspills)                       |            |
-| Jasna Rodulfa-Blemberg          | [@JasnaMRB](https://github.com/JasnaMRB)                         |            |
 | Daniel Spiewak                  | [@djspiewak](https://github.com/djspiewak)                       |            |
 | Andrew Valencik                 | [@valencik](https://github.com/valencik)                         | Secretary  |
 | Vasil Vasilev                   | [@vasilmkd](https://github.com/vasilmkd)                         |            |
