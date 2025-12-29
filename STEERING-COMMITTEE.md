@@ -4,7 +4,6 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME**                        | **GitHub**                                                       | **Office** |
 |---------------------------------|------------------------------------------------------------------|------------|
-| Ross A. Baker                   | [@rossabaker](https://github.com/rossabaker)                     |            |
 | Luka Jacobowitz                 | [@LukaJCB](https://github.com/LukaJCB)                           |            |
 | Michael Pilquist                | [@mpilquist](https://github.com/mpilquist)                       |            |
 | Sam Pillsworth                  | [@samspills](https://github.com/samspills)                       |            |
